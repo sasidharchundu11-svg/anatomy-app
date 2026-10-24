@@ -1,0 +1,23 @@
+{
+  "name": "Kiran's Anatomy",
+  "short_name": "Anatomy",
+  "description": "MBBS Anatomy Revision App (v4.0) \u2013 10 Sections, 152 Chapters, Study Notes, 2,499 MCQs & 2,869 Flashcards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
